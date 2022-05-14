@@ -1,6 +1,6 @@
 # TicketMaster
 
-Ticket Master is a bot allows you to organize your server's support system.
+Ticket Master is a bot that allows you to organize your server's support system.
 
 # Set up the bot for self hosting/development
 
