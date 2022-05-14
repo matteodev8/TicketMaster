@@ -1,3 +1,5 @@
+[![CodeQL](https://github.com/xtari/TicketMaster/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/xtari/TicketMaster/actions/workflows/codeql.yml)
+
 # TicketMaster
 
 Ticket Master is a bot that allows you to organize your server's support system.
