@@ -1,0 +1,31 @@
+{
+  "name": "ticketmaster",
+  "version": "1.0.0",
+  "description": "Ticket Master is a bot allows you to organize your server's support system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtari/TicketMaster.git"
+  },
+  "keywords": [
+    "javascript",
+    "bot",
+    "discord",
+    "discord-js",
+    "ticket-system"
+  ],
+  "author": "xtari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xtari/TicketMaster/issues"
+  },
+  "homepage": "https://github.com/xtari/TicketMaster#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "discord-api-types": "^0.32.1",
+    "discord.js": "^13.7.0"
+  }
+}
