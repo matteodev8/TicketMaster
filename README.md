@@ -1,7 +1,21 @@
 # TicketMaster
+
 Ticket Master is a bot allows you to organize your server's support system.
 
+# Set up the bot for self hosting/development
+
+1. Create a new bot account on Discord (https://discord.com/developers/applications/me).
+
+2. Customize your bot account on the Discord Developer Portal.
+
+3. Copy your token, client ID and your guild ID into the config.json file (You need to create this file first).
+
+4. Run `npm run deploy` to deploy the slash commands (If you want to deploy the commands to a certain server, use `npm run deploy-dev`).
+
+5. Now run `npm run start` to start the bot.
+
 # License 
+
 ```
 MIT License
 
